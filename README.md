@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hpc4geo/SZ_2D_thermal_structure/main)
+
+
+
 # SZ_2D_thermal_structure 
 
 This code was developed by Gabrielle Hobson and Dave May and is distributed under the "LICENSE ?". It is part of the Megathrust Modeling Framework ([MTMOD](https://sites.utexas.edu/mtmod/)), supported by NSF FRES grant EAR-2121568. 
